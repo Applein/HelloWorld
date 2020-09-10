@@ -1,5 +1,5 @@
 // #include "studio.h"
-#define APP_MAX  9
+#define APP_MAX  199
 
 void main()
 {
