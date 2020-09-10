@@ -1,5 +1,5 @@
-#include "helloworld.h"
-#define APP_MAX  10
+#include "studio.h"
+#define APP_MAX  9
 
 void main()
 {
