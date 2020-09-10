@@ -1,4 +1,4 @@
-#include "studio.h"
+// #include "studio.h"
 #define APP_MAX  9
 
 void main()
